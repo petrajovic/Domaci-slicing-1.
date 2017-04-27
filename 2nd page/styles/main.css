@@ -1,0 +1,111 @@
+body{
+    font-family: Lato,Georgia, Serif;
+    color: #404040;
+}
+.upper-part{
+    height: 200px; 
+}
+.lower-part{
+    background-color: 	 #f2f2f2;
+}
+.upper-part-menu{
+    margin-top: 30px;
+    margin-left: 12px;
+}
+.upper-part-menu-line1,
+.upper-part-menu-line2,
+.upper-part-menu-line3{
+    width:15px;
+    height: 1px;
+    background-color: #404040;
+}
+.upper-part-menu-line2{
+     margin-top: 3px;
+}
+.upper-part-menu-line3{
+    margin-top: 3px;
+}
+.upper-part-button{
+    float:right;
+    height: 28px;
+    width: 110px;
+    font-size: 12px;
+    border-style: solid;
+    border-color:orangered;
+    border-radius: 20px;   
+}
+.upper-part-button-text{
+    margin-top: 5px;
+    text-align: center;
+}
+.upper-part-title{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.upper-part-subtitle{
+    text-align: center;  
+}
+.lower-part{
+    text-align: center;
+}
+.lower-part-date{
+    color: 	 #999999;
+    padding-top: 35px;
+}
+.lower-part-title{
+    padding-top: 7px;
+    width: 350px;
+    margin-left: 500px;
+}
+.lower-part-image{
+    margin-top: 25px;
+    padding-top: 180px;
+    background-image: url('https://cdn.shutterstock.com/shutterstock/videos/10289105/thumb/1.jpg?i10c=img.resize(height:160)');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 40%;
+    margin-left: 400px;
+}
+.lower-part-text{
+    padding-top: 25px;
+    width: 600px;
+    margin-left: 368px;
+}
+.lower-part-dots{
+    font-size: 30px;
+    color:#999999;
+}
+.upper-part-menu{
+    width: 65px;
+}
+.upper-part-menu-text{
+    position: absolute;
+    top: 4%;
+    margin-left: 17px;
+}
+.upper-part-years{
+    color: #999999;
+    width: 200px;
+    margin-left: 600px;
+    position: absolute;
+    top: 4%
+}
+.upper-part-years1:hover,
+.upper-part-years2:hover,
+.upper-part-years3:hover{
+    color: #404040;
+}
+.upper-part-years1{
+    float: left;
+    padding-right: 20px;
+}
+.upper-part-years2{
+    float: left;
+    padding-right: 20px;
+}
+.upper-part-years3{
+    float: left;
+}
